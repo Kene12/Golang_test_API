@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Kene12/Golang_test_API/server/models"
+	"github.com/Kene12/Golang_test_API/models"
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gorilla/mux"
